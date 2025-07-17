@@ -25,6 +25,9 @@ let playerStats = {
     strength: 10,
     defense: 5
 };
-
-
+//variable for weapon damage
+let weaponDamage = 0;
+console.log(weaponDamage)
+console.log("When you buy a sword weapon damage will increase to 10!");
+// create variable to track weapon damage
 
